@@ -5,7 +5,9 @@ gvamosi@gergo1:~/VSCodeProjects/MvnProjectKotlinFileUpload/fileupload$ ./mvnw cl
 
 gvamosi@gergo1:~/VSCodeProjects/MvnProjectKotlinFileUpload/fileupload$ ./mvnw package -Dmaven.test.skip
 
+
 gvamosi@gergo1:~/VSCodeProjects/MvnProjectKotlinFileUpload/fileupload$ export JAVA_HOME=/opt/jdk-17.0.6+10/
+
 gvamosi@gergo1:~/VSCodeProjects/MvnProjectKotlinFileUpload/fileupload$ $JAVA_HOME/bin/java -jar target/fileupload-0.0.1-SNAPSHOT.jar
 
 
