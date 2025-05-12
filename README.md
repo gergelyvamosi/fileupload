@@ -17,4 +17,4 @@ gvamosi@gergo1:~/VSCodeProjects/MvnProjectKotlinFileUpload/fileupload/src/main/r
 
 cheers fellows!
 
-2025-05-11 monday noon
+2025-05-11 monday at noon
